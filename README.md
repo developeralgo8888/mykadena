@@ -1,2 +1,2 @@
 # mykadena
-Lab Testing Kadena on GPU 
+Lab Testing Kadena on very old GPU 
